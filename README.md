@@ -5,9 +5,9 @@
 ## 算法数据结构
 
 #### 海量数据如何去重？
-    - [海量数据去重](https://blog.csdn.net/paul_wei2008/article/details/21170999)
-    - [大数据排序](https://blog.csdn.net/michellechouu/article/details/27230451)
-    - [海量数据找topK](https://www.cnblogs.com/DarrenChan/p/8796749.html)
+- [海量数据去重](https://blog.csdn.net/paul_wei2008/article/details/21170999)
+- [大数据排序](https://blog.csdn.net/michellechouu/article/details/27230451)
+- [海量数据找topK](https://www.cnblogs.com/DarrenChan/p/8796749.html)
 
 #### 算法
     - [堆排序](https://blog.csdn.net/Sun_Ru/article/details/52004044)
