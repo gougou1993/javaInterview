@@ -31,7 +31,7 @@
 - [ConcurrentHashMap分析](http://www.importnew.com/28263.html)
 - [stack实现](https://blog.csdn.net/javazejian/article/details/53362993)
 - [树结构](https://blog.csdn.net/DouBoomFly/article/details/70171410)
-- [二叉树**](https://blog.csdn.net/xiaoquantouer/article/details/65631708?utm_source=blogxgwz0)
+- [二叉树](https://blog.csdn.net/xiaoquantouer/article/details/65631708?utm_source=blogxgwz0)
 - [B树](https://blog.csdn.net/guoziqing506/article/details/64122287?utm_source=blogxgwz8)
 - [阻塞队列](https://javadoop.com/post/java-concurrent-queue)
 - [红黑树](http://daoluan.net/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95/2013/09/25/rbtree-is-not-difficult.html)
@@ -41,7 +41,7 @@
 
 ## java基础相关
 
-#### hashcode相等两个类一定相等吗？ equals 呢 相反呢？
+#### hashcode相等两个类一定相等吗？equals 呢 相反呢？
 - [hashCode()和equals()](https://www.cnblogs.com/skywang12345/p/3324958.html)
 #### 线程池用过么？都有哪些参数？ 底层如何实现？
 - [多线程面试](https://www.cnblogs.com/aspirant/category/1017858.html)
