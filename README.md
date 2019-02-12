@@ -342,6 +342,7 @@
   - [秒杀设计一](https://juejin.im/entry/59c34acef265da066d33456c)
   - [秒杀设计二](https://www.ibm.com/developerworks/cn/web/wa-design-small-and-good-kill-system/index.html)
   - [秒杀设计三](https://www.zhihu.com/question/54895548)
+  - [秒杀设计](https://github.com/qiurunze123/miaosha)
 
 
 
@@ -353,3 +354,4 @@
    - [经典面试](https://juejin.im/entry/58f2e3bf0ce463006baf31a1)
    - [面试大纲](https://www.jianshu.com/p/a07d1d4004b0)
    - [面试大纲答案](https://www.cnblogs.com/xyang/tag/%E9%9D%A2%E8%AF%95/)
+   
