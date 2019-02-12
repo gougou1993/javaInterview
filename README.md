@@ -5,16 +5,16 @@
 ## 算法数据结构
 
 #### 海量数据如何去重？
-- [海量数据去重](https://blog.csdn.net/paul_wei2008/article/details/21170999)
-- [大数据排序](https://blog.csdn.net/michellechouu/article/details/27230451)
-- [海量数据找topK](https://www.cnblogs.com/DarrenChan/p/8796749.html)
+    - [海量数据去重](https://blog.csdn.net/paul_wei2008/article/details/21170999)
+    - [大数据排序](https://blog.csdn.net/michellechouu/article/details/27230451)
+    - [海量数据找topK](https://www.cnblogs.com/DarrenChan/p/8796749.html)
 
 #### 算法
-- [堆排序](https://blog.csdn.net/Sun_Ru/article/details/52004044)
-- [冒泡排序](https://blog.csdn.net/IT_ZJYANG/article/details/51010651)
-- [快速排序](https://blog.csdn.net/IT_ZJYANG/article/details/53406764)
-- [排序算法](https://juejin.im/post/5a96d6b15188255efc5f8bbd#heading-22)
-- [Java中ArrayList循环遍历并删除元素的陷阱](https://blog.csdn.net/L_kanglin/article/details/70148043)
+    - [堆排序](https://blog.csdn.net/Sun_Ru/article/details/52004044)
+    - [冒泡排序](https://blog.csdn.net/IT_ZJYANG/article/details/51010651)
+    - [快速排序](https://blog.csdn.net/IT_ZJYANG/article/details/53406764)
+    - [排序算法](https://juejin.im/post/5a96d6b15188255efc5f8bbd#heading-22)
+    - [Java中ArrayList循环遍历并删除元素的陷阱](https://blog.csdn.net/L_kanglin/article/details/70148043)
 
 #### 常见数据结构
 - [常见数据结构](https://blog.csdn.net/zxt0601/article/category/6697194)
@@ -89,6 +89,8 @@
 #### 注解原理
 - [注解原理](https://blog.csdn.net/zhang0558/article/details/52643016)
 - [快速失败，安全失败](https://blog.csdn.net/ch717828/article/details/46892051)
+
+--- 
 
 ### 数据库相关
 
