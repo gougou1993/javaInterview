@@ -37,8 +37,6 @@
     - [红黑树](http://daoluan.net/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95/2013/09/25/rbtree-is-not-difficult.html)
 
 
----
-
 ## java基础相关
 
 #### hashcode相等两个类一定相等吗？equals 呢 相反呢？
@@ -90,7 +88,6 @@
     - [注解原理](https://blog.csdn.net/zhang0558/article/details/52643016)
     - [快速失败，安全失败](https://blog.csdn.net/ch717828/article/details/46892051)
 
---- 
 
 ### 数据库相关
 
@@ -123,7 +120,6 @@
     - [一致性hash算法](http://www.zsythink.net/archives/1182)
     - [递归算法](https://blog.csdn.net/justloveyou_/article/details/71787149)
 
----
 ## 缓存相关
 #### redis和 memcheched什么区别？为什么单线程的redis比多线程的memched效率高？
     - [redis的特点和原理](https://juejin.im/post/5ad6e4066fb9a028d82c4b66)
@@ -147,7 +143,7 @@
 #### 热点数据处理
     - [热点数据处理](https://mp.weixin.qq.com/s/1KJasUM5UcJ_WL_LzLtfrw)
 
----
+
 
 ## 分布式架构相关
 
@@ -191,7 +187,6 @@
 #### 如何降级？如何进行系统拆分，如何进行数据库拆分
     - [服务降级](http://jinnianshilongnian.iteye.com/blog/2306477)
 
-----
 
 ## 消息相关
 
@@ -212,7 +207,6 @@
     - [rabbitMQ](https://www.kancloud.cn/longxuan/rabbitmq-arron/117513)
     - [知识点](https://blog.csdn.net/qq_30764991/article/details/80573352)
 
----
 
 ## jvm相关
 
@@ -240,7 +234,7 @@
 #### 排查过程
     - [死循环](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247487380&idx=1&sn=e8c350a946696940dc4c13b0b7fcfcd3&chksm=e9c5f625deb27f331eefc431a10d7c90bef50a2afd2c4f9299d2eb514982c6623b0569cf0e19&mpshare=1&scene=1&srcid=#rd))
 
----
+
 
 ## 框架相关
 
@@ -265,7 +259,6 @@
    - [starter编写](https://www.cnblogs.com/yuansc/p/9088212.html)
 
 
----
 
 ## 网络相关
 
@@ -288,7 +281,6 @@
 #### dump
     - [dump使用](https://www.cnblogs.com/aspirant/p/8881047.html)
 
----
 ## 其他
 #### git原理
     - [git原理](https://juejin.im/post/5a65ac67f265da3e330473f7)
@@ -297,7 +289,7 @@
 #### 常见加解密算法
     - [加解密](https://blog.csdn.net/u013565368/article/details/53081195)
 
----
+
 
 ## 系统设计
 
@@ -306,7 +298,6 @@
   - [秒杀设计三](https://www.zhihu.com/question/54895548)
 
 
----
 
 ### 链接收集
    - [大厂面试集锦](https://www.cnblogs.com/aspirant/p/8575628.html)
