@@ -101,6 +101,8 @@
 - [注解原理](https://blog.csdn.net/zhang0558/article/details/52643016)
 - [快速失败，安全失败](https://blog.csdn.net/ch717828/article/details/46892051)
 
+#### 设计模式
+- [设计模式](https://java-design-patterns.com/patterns/)
 
 ### 数据库相关
 
