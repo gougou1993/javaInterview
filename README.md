@@ -15,6 +15,7 @@
 - [快速排序](https://blog.csdn.net/IT_ZJYANG/article/details/53406764)
 - [排序算法](https://juejin.im/post/5a96d6b15188255efc5f8bbd#heading-22)
 - [Java中ArrayList循环遍历并删除元素的陷阱](https://blog.csdn.net/L_kanglin/article/details/70148043)
+- [树相关的算法](https://juejin.im/post/5cb6ca9fe51d456e8b07dd4f?utm_source=gold_browser_extension)
 
 #### 常见数据结构
 - [常见数据结构](https://blog.csdn.net/zxt0601/article/category/6697194)
