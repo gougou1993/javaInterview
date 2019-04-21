@@ -342,6 +342,7 @@
 
 #### maven
 - [maven](https://blog.csdn.net/u012225679/article/details/73740785)
+- [理论教程](https://juejin.im/post/5cb967cbe51d456e403772b5?utm_source=gold_browser_extension)
 
 #### 常见加解密算法
 - [加解密](https://blog.csdn.net/u013565368/article/details/53081195)
