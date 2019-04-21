@@ -184,6 +184,10 @@
 - [zkWatcher机制分析](http://shift-alt-ctrl.iteye.com/blog/1847320)
 - [集群节点个数](https://blog.csdn.net/u010476994/article/details/79806041)
 
+#### 分布式事物
+
+- [分布式事物解决方案](https://juejin.im/post/5cb967cbe51d456e403772b5?utm_source=gold_browser_extension)
+
 #### dubbo的实现过程？注册中心挂了可以继续通信么？dubbo常见配置有哪些
 - [dubbo常见配置](http://www.cnblogs.com/yxh1008/p/9251693.html)
 
