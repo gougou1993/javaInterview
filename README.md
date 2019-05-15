@@ -338,7 +338,7 @@
 - [OAuth2.0原理](https://my.oschina.net/wangzhenchao/blog/851773)
 
 #### 子网掩码
-- [子网掩码的原理和应用**](https://blog.csdn.net/faker_wang/article/details/80747407)
+- [子网掩码的原理和应用](https://blog.csdn.net/faker_wang/article/details/80747407)
 
 #### dump
 - [dump使用](https://www.cnblogs.com/aspirant/p/8881047.html)
