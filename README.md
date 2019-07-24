@@ -2,7 +2,7 @@
 # java 面试集锦
 
 
-## 姊妹项目:[java面试基础必备](https://github.com/nivelle/javaguides)
+## 姊妹项目:[java强化基本功必备(code better than 逼逼)](https://github.com/nivelle/javaguides)
 
 ---
 
