@@ -31,6 +31,7 @@
 - [hashMap非线程安全分析](http://www.importnew.com/22011.html)
 - [hashMap key==null 分析](https://blog.csdn.net/glory1234work2115/article/details/50825503)
 - [String](https://blog.csdn.net/justloveyou_/article/details/52556427)
+- [String最大长度](https://juejin.im/post/5d561e17f265da03af19ce15)
 - [hashMap分析](http://note.youdao.com/noteshare?id=e5a60b1100b28bb62c7b9a101efe477c)
 - [hashMap分析2](https://blog.csdn.net/tuke_tuke/article/details/51588156)
 - [ConcurrentHashMap分析](http://www.importnew.com/28263.html)
