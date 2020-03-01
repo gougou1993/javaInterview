@@ -1,8 +1,8 @@
 
-# java 面试集锦
+# java 核心基础总结
 
 
-## 姊妹项目:[java强化基本功必备(code better than 逼逼)](http://nivelle.me/javaGuides/)
+## 姊妹项目:[java天天学](http://nivelle.me/javaGuides/)
 
 ---
 
