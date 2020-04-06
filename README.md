@@ -290,6 +290,9 @@
 #### 排查过程
 - [死循环](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247487380&idx=1&sn=e8c350a946696940dc4c13b0b7fcfcd3&chksm=e9c5f625deb27f331eefc431a10d7c90bef50a2afd2c4f9299d2eb514982c6623b0569cf0e19&mpshare=1&scene=1&srcid=#rd)
 
+- [oom排查](https://mp.weixin.qq.com/s/ji_8NhN4NnEHrfAlA9X_ag)
+
+- [oom排查2](https://mp.weixin.qq.com/s/IPi3xiordGh-zcSSRie6nA)
 
 
 ## 框架相关
