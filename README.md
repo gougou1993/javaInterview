@@ -41,7 +41,7 @@
 - [阻塞队列](https://javadoop.com/post/java-concurrent-queue)
 - [红黑树](http://daoluan.net/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95/2013/09/25/rbtree-is-not-difficult.html)
 - [hashMap扩容分析](https://blog.csdn.net/pange1991/article/details/82347284)
-
+- [hashMap的树化](https://www.cnblogs.com/finite/p/8251587.html)
 ## java基础相关
 
 #### hashcode相等两个类一定相等吗equals 呢 相反呢
