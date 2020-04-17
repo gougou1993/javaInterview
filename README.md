@@ -28,7 +28,7 @@
 - [moudCount的作用](https://blog.csdn.net/qq_24235325/article/details/52450331)
 - [CopyOnWriteArrayList](https://blog.csdn.net/linsongbin1/article/details/54581787)
 - [hashtable和hashMap](https://blog.csdn.net/tgxblue/article/details/8479147)
-- [hashMap非线程安全分析](http://www.importnew.com/22011.html)
+- [hashMap非线程安全分析](https://mp.weixin.qq.com/s/t4kPX32puAfwyeoxqV-y-w)
 - [hashMap key==null 分析](https://blog.csdn.net/glory1234work2115/article/details/50825503)
 - [String](https://blog.csdn.net/justloveyou_/article/details/52556427)
 - [String最大长度](https://juejin.im/post/5d561e17f265da03af19ce15)
