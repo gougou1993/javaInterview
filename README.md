@@ -2,7 +2,7 @@
 # java 核心基础总结
 
 
-## 姊妹项目:[java天天学](https://github.com/nivelle/javadaybyday)
+## 姊妹项目:[java天天学](https://github.com/nivelle/programdayandnight)
 
 ---
 
